@@ -27,7 +27,7 @@ author:
   name             : "OSCAR JASSO"
   pronouns         : "he/him"  
   bio              : "USMC Veteran focused on AI, Data Science, ML"
-  location         : "Earth"
+  location         : "Houston"
   employer         : "University of Houston-Main"
   uri              : "UH Deparpment" [cs.uh.edu](https://www.cs.uh.edu)
   email            : "jasso.2016.oscar@gmail.com" 
@@ -108,11 +108,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "true" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "true" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : "G-6VCV1BZ4J4"
-    anonymize_ip         : true
-
 
 # Reading Files
 include:
