@@ -28,11 +28,11 @@ author: # Biographic information
   bio              : "USMC Veteran focused on AI, Data Science, ML"
   location         : "Houston"
   employer         : "University of Houston-Main"
-  uri              : "UH Deparpment" [cs.uh.edu](https://www.cs.uh.edu)
+  uri              : "https://www.cs.uh.edu"
   email            : "jasso.2016.oscar@gmail.com" 
 
   # Academic websites
-  academia         : [cs.uh.edu](https://www.cs.uh.edu)
+  academia         : #Nada
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -107,7 +107,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "true" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-6VCV1BZ4J4"
 
