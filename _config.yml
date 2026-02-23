@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Oscar J."
 description              : &description "My academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://orjass2016.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/orjass2016-UHportfolio.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "orjass2016/orjass2016-UHportfolio.github.io"
 
@@ -22,7 +22,7 @@ repository               : "orjass2016/orjass2016-UHportfolio.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: # Biographic information
-  avatar           : "images/NEW5.png"
+  avatar           : "NEW5.png"
   name             : "OSCAR JASSO"
   pronouns         : "he/him"  
   bio              : "USMC Veteran focused on AI, Data Science, ML"

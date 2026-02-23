@@ -1,6 +1,6 @@
 ---
 title: "Portfolio AI Project"
-excerpt: "AirFare Predictions 1<br/><img src='/images/NEW5.png'>"
+excerpt: "AirFare Predictions 1<br/><img src='NEW5.png'>"
 collection: portfolio
 ---
 
